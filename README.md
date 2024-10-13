@@ -1,5 +1,18 @@
 # Warlings: Armageddon - Un homenaje a Worms en Android
 
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/06e98437-b672-48b5-b890-c6b4de8ebf53" alt="Screen Recorder Icon" width="200">
+    <br>
+    <span style="font-size: 24px; font-weight: bold;">Warlings: armageddon</span>
+</p>
+
+<p align="center">
+  <a href="https://github.com/CodeByDante/Grabador-de-pantalla-/releases/download/Grabador/Grabador.de.Pantalla.apk">
+    <img src="https://img.shields.io/badge/Descargar%20Grabador%20de%20Pantalla-001f3f?style=for-the-badge&logo=android&logoColor=white&labelColor=green&logoWidth=30&borderRadius=20" alt="Descargar Warlings: Armageddon"/>
+  </a>
+</p>
+
+
 ## Descripción
 ![image](https://github.com/user-attachments/assets/8c13d7ba-6f8d-4d70-9a8c-4b2b2ca8ce38)
 
