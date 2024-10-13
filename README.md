@@ -14,8 +14,6 @@
 
 
 ## Descripción
-![image](https://github.com/user-attachments/assets/8c13d7ba-6f8d-4d70-9a8c-4b2b2ca8ce38)
-
 **Warlings: Armageddon** es un adictivo juego de estrategia por turnos que te transporta a batallas épicas en 2D. Toma el control de un pequeño ejército de adorables personajes y enfréntate a tus enemigos en escenarios destructibles. 
 
 **Características:**
@@ -34,7 +32,8 @@
 3. **¡A jugar!** Sumérgete en el caos de la batalla y demuestra tus habilidades estratégicas.
 
 ## Capturas de pantalla
-[Inserta aquí imágenes que muestren diferentes aspectos del juego]
+
+![image](https://github.com/user-attachments/assets/8c13d7ba-6f8d-4d70-9a8c-4b2b2ca8ce38)
 
 ## Desarrollador
 17th Pixel Poland
