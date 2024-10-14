@@ -26,30 +26,10 @@
 ## Requisitos del sistema
 * **Android:** 4.0.3 o superior
 
-## Instalación
-1. **Descarga:** Obtén la última versión de Warlings: Armageddon desde [enlace a la tienda de aplicaciones].
-2. **Instalación:** Sigue las instrucciones en pantalla para instalar el juego en tu dispositivo Android.
-3. **¡A jugar!** Sumérgete en el caos de la batalla y demuestra tus habilidades estratégicas.
-
-## Capturas de pantalla
+## Todo Desbloqueado
 
 ![image](https://github.com/user-attachments/assets/8c13d7ba-6f8d-4d70-9a8c-4b2b2ca8ce38)
 
 ## Desarrollador
 17th Pixel Poland
 
-## Licencia
-[Indica aquí el tipo de licencia que utilizas, por ejemplo, MIT]
-
-## Contribuciones
-Si deseas contribuir al desarrollo de Warlings: Armageddon, por favor, consulta nuestra guía de contribuciones.
-
-## Agradecimientos
-Agradecemos a todos los colaboradores que han hecho posible este proyecto.
-
-## Próximas actualizaciones
-Estamos trabajando en nuevas características y mejoras. ¡Mantente al tanto!
-
-**¡Únete a la batalla y conviértete en el mejor comandante de Warlings!**
-
-**Etiquetas:** android, juego, estrategia, por turnos, worms, arcade
